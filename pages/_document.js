@@ -6,7 +6,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <link
-            href="http://fonts.cdnfonts.com/css/open-sans"
+            href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300,500"
             rel="stylesheet"
           />
           <link
